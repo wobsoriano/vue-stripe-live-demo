@@ -76,7 +76,7 @@ const handleSubmit = async () => {
           Payment Element Example
         </h1>
         <a
-          href="https://github.com/your-username/nuxt-stripe-demo"
+          href="https://github.com/wobsoriano/vue-stripe-live-demo"
           target="_blank"
           rel="noopener noreferrer"
           class="text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
